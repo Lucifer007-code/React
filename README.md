@@ -1,3 +1,3 @@
 # React App
 
-Premade boiler plate for web development
+Premade boiler plate for web development projects.
