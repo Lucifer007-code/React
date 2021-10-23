@@ -1,2 +1,3 @@
 # React App
-Contributor: VastersCode
+
+Premade boiler plate for web development
